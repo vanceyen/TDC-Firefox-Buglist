@@ -18,7 +18,6 @@
   - [Bug 1256772](https://bugzilla.mozilla.org/show_bug.cgi?id=1256772) - Fix ESLint issues in devtools/client/webconsole/jsterm.js
   - [Bug 1011023](https://bugzilla.mozilla.org/show_bug.cgi?id=1011023) - Simplify test_bookmarks_restore_notification.js to use add_task
   - [Bug 1217134](https://bugzilla.mozilla.org/show_bug.cgi?id=1217134) - Replace show password placeholder with conventional show password checkbox
-  -
 
 
 ## Ray Lin ##
