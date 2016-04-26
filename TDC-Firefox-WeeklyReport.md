@@ -1,4 +1,4 @@
-# TDC Firefox Team Bug Log - 4/23 : #
+# TDC Firefox Team Bug Log - WEEK 17 : #
 
 
 ## Fred Lin ##
